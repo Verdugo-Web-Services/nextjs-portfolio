@@ -1,0 +1,7 @@
+[
+  {
+    "instructions": "Create a new Next.js website with pnpm, typescript and eslint that uses the app router and src directories.",
+    "recommendedCommand": "pnpm create next-app",
+    "checkCommand": "git add . && git diff HEAD"
+  }
+]
